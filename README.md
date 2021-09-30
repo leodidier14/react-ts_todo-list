@@ -1,3 +1,7 @@
+# react-ts_shopping-cart
+
+Simple Todo List to learn the basic of react using typescript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
